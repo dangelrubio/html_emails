@@ -56,6 +56,15 @@
         @media screen and (max-width: 399.98px){
             
         }
+        :root{
+            color-scheme: light dark;
+            supported-color-schemes: light dark;
+        }
+        @media (prefers-color-scheme: dark){
+            body, table {
+                background: #2d2d2d !important;
+            }
+        }
     </style>
     <!--[if mso]>
         <style type="text/css">
@@ -90,7 +99,7 @@
                     <td style="padding: 0;">
                         <table width="100%" style="border-spacing: 0" role="presentation">
                             <tr>
-                                <td style="padding: 10px; background-color: #c0c0ff">
+                                <td style="padding: 10px;">
                                     <h1 style="text-align: center; font-size: 30px;">Hello</h1>
                                 </td>
                             </tr>
