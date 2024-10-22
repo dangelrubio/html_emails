@@ -7,7 +7,7 @@
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no, url=no">
     <meta name="x-apple-disable-message-reformatting">
     <meta name="color-scheme" content="light dark">
-    <meta name="supported-color-scheme" content="light dark">
+    <meta name="supported-color-schemes" content="light dark">
     <!--[if mso]>
         <noscript>
             <xml>
@@ -56,13 +56,24 @@
         @media screen and (max-width: 399.98px){
             
         }
-        :root{
+        :root {
             color-scheme: light dark;
             supported-color-schemes: light dark;
         }
         @media (prefers-color-scheme: dark){
             body, table {
                 background: #2d2d2d !important;
+                color: #ffffff;
+            }
+            .darkmode-transparent{
+                background-color: transparent !important;
+            }
+            [data-ogsc] body, table {
+                background: #2d2d2d !important;
+                color: #ffffff;
+            }
+            [data-ogsc] .darkmode-transparent{
+                background-color: transparent !important;
             }
         }
     </style>
