@@ -1,0 +1,18 @@
+Logo:
+https://i.ibb.co/1fN4jNV/w3newbie.png
+https://mcusercontent.com/474f5b70c3b324277323d4c42/images/8c6d35c2-2b66-5af9-d40f-1eec9d2dcaf3.png
+https://raw.githubusercontent.com/w3newbie/html-email-mastery-images/main/basic-template/w3newbie.png
+
+Banner:
+https://i.ibb.co/djwMPKK/lock-banner.jpg
+https://mcusercontent.com/474f5b70c3b324277323d4c42/images/80657041-e007-7e23-37ed-2e10ac4f5cac.jpg
+https://raw.githubusercontent.com/w3newbie/html-email-mastery-images/main/basic-template/lock-banner.jpg
+
+Button:
+https://i.ibb.co/84RF9Vc/button.png
+https://mcusercontent.com/474f5b70c3b324277323d4c42/images/0f63e7e6-d834-2e03-a0f8-17b043f7763e.png
+https://raw.githubusercontent.com/w3newbie/html-email-mastery-images/main/basic-template/button.png
+
+Banner Icon Credit:
+https://www.flaticon.com/free-icons/password
+Password icons created by Freepik - Flaticon
